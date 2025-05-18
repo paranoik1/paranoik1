@@ -1,10 +1,14 @@
-# Python Backend Developer & Data Parser
+<div align="center">
 
-[![Kwork Profile](https://img.shields.io/badge/Kwork-Profile-orange?style=for-the-badge&logo=kwork)](https://kwork.ru/user/vpetr6594)
+# Python Backend Разработчик & Data Engineer
+
+[![Профиль на Kwork](https://img.shields.io/badge/Kwork-Профиль-orange?style=for-the-badge&logo=kwork)](https://kwork.ru/user/vpetr6594)
 
 ```python
-print("Building efficient backend solutions and powerful data parsers")
+print("Создаю эффективные бэкенд решения и мощные парсеры данных")
 ```
+
+</div>
 
 ## 🛠 Tech Stack
 
@@ -46,9 +50,9 @@ print("Building efficient backend solutions and powerful data parsers")
 [![Server Administration](https://img.shields.io/badge/-Server_Admin-important)](https://kwork.ru/user/vpetr6594)
 [![Bot Development](https://img.shields.io/badge/-Bot_Development-blueviolet)](https://kwork.ru/user/vpetr6594)
 
-## Почему "paranoik1"?
+## 🤔 Почему "paranoik1"?
 
 Потому что "paranoik" уже занят, а "paranoik2" слишком оптимистичен.
 
-"Если ваш код работает с первой попытки, вы, вероятно, забыли обработать все пограничные случаи... или у вас галлюцинации». 🦄 
-Дисклеймер: Ни один разработчик не пострадал при создании этих репозиториев (хотя несколько бесконечных циклов были принесены в жертву).
+> "Если ваш код работает с первой попытки, вы, вероятно, забыли обработать все пограничные случаи... или у вас галлюцинации». 🦄 
+> Дисклеймер: Ни один разработчик не пострадал при создании этих репозиториев (хотя несколько бесконечных циклов были принесены в жертву).
