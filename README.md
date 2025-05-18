@@ -22,7 +22,7 @@ print("Building efficient backend solutions and powerful data parsers")
 ![BeautifulSoup](https://img.shields.io/badge/Beautiful_Soup-4.0-green)
 ![Scrapy](https://img.shields.io/badge/Scrapy-1.8.0-orange)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-!
+
 ### DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
