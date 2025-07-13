@@ -2,7 +2,7 @@
 
 # Python Backend Разработчик & Data Engineer
 
-[![Профиль на Kwork](https://img.shields.io/badge/Kwork-Профиль-orange?style=for-the-badge&logo=kwork)](https://kwork.ru/user/vpetr6594)
+[![Профиль на Kwork](https://img.shields.io/badge/Kwork-Профиль-orange?style=for-the-badge&logo=kwork)](https://kwork.ru/user/paranoik1)
 
 ```python
 print("Создаю эффективные бэкенд решения и мощные парсеры данных")
