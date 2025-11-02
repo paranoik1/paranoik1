@@ -17,9 +17,7 @@ print("Создаю эффективные бэкенд решения и мощ
 ## 🚀 Featured Projects
 
 [![MafiaBot](https://img.shields.io/badge/MafiaBot-Discord_Game_Bot-blue)](https://github.com/paranoik1/MafiaBot)  
-
 [![aioyoomoney](https://img.shields.io/badge/aioyoomoney-Async_YooMoney_API-yellow)](https://github.com/paranoik1/aioyoomoney-api)  
-
 [![TopModsAPI](https://img.shields.io/badge/TopModsAPI-Game_Mods_Parser-green)](https://github.com/paranoik1/TopModsAPI)  
 
 ## 💼 Professional Services
