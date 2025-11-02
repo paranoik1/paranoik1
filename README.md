@@ -11,20 +11,16 @@ print("Создаю эффективные бэкенд решения и мощ
 ```
 
 🛠️ `Python` | `FastAPI` | `Scrapy` | `aiohttp` | `Redis` | `Docker` | `Web Scraping` | `Async APIs`  
-🎓 Студент колледжа, 3 курс · Открыт к стажировкам, фрилансу и интересным задачам
 
 </div>
 
 ## 🚀 Featured Projects
 
 [![MafiaBot](https://img.shields.io/badge/MafiaBot-Discord_Game_Bot-blue)](https://github.com/paranoik1/MafiaBot)  
-> Полнофункциональный бот для игры в Мафию с автоматизацией, премиум-ролями и голосовым сопровождением.
 
 [![aioyoomoney](https://img.shields.io/badge/aioyoomoney-Async_YooMoney_API-yellow)](https://github.com/paranoik1/aioyoomoney-api)  
-> Асинхронная библиотека для работы с YooMoney API с поддержкой токенов, истории операций и Quickpay.
 
 [![TopModsAPI](https://img.shields.io/badge/TopModsAPI-Game_Mods_Parser-green)](https://github.com/paranoik1/TopModsAPI)  
-> Высокоскоростной API для поиска и скачивания модов с обходом TLS-защиты и кэшированием через Redis.
 
 ## 💼 Professional Services
 
