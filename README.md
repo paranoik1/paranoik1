@@ -16,15 +16,15 @@ print("Создаю эффективные бэкенд решения и мощ
 
 ## 🚀 Featured Projects
 
-[![MafiaBot](https://img.shields.io/badge/MafiaBot-Discord_Game_Bot-blue)](https://github.com/paranoik1/MafiaBot)  
-[![aioyoomoney](https://img.shields.io/badge/aioyoomoney-Async_YooMoney_API-yellow)](https://github.com/paranoik1/aioyoomoney-api)  
-[![TopModsAPI](https://img.shields.io/badge/TopModsAPI-Game_Mods_Parser-green)](https://github.com/paranoik1/TopModsAPI)  
+[![MafiaBot](https://img.shields.io/badge/MafiaBot-Discord_Game_Bot-blue)](https://github.com/paranoik1/MafiaBot)
+[![aioyoomoney](https://img.shields.io/badge/aioyoomoney-Async_YooMoney_API-yellow)](https://github.com/paranoik1/aioyoomoney-api)
+[![TopModsAPI](https://img.shields.io/badge/TopModsAPI-Game_Mods_Parser-green)](https://github.com/paranoik1/TopModsAPI)
 
 ## 💼 Professional Services
 
-[![API Development](https://img.shields.io/badge/-API_Development-9cf)](https://kwork.ru/user/paranoik1)  
-[![Web Scraping](https://img.shields.io/badge/-Web_Scraping-brightgreen)](https://kwork.ru/user/paranoik1)  
-[![Bot Development](https://img.shields.io/badge/-Bot_Development-blueviolet)](https://kwork.ru/user/paranoik1)  
+[![API Development](https://img.shields.io/badge/-API_Development-9cf)](https://kwork.ru/user/paranoik1)
+[![Web Scraping](https://img.shields.io/badge/-Web_Scraping-brightgreen)](https://kwork.ru/user/paranoik1)
+[![Bot Development](https://img.shields.io/badge/-Bot_Development-blueviolet)](https://kwork.ru/user/paranoik1)
 [![Automation Scripts](https://img.shields.io/badge/-Custom_Scripts-important)](https://kwork.ru/user/paranoik1)
 
 ## 🤔 Почему "paranoik1"?
