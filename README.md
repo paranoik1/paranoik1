@@ -6,14 +6,13 @@
 
 [![Профиль на Kwork](https://img.shields.io/badge/Kwork-Профиль-orange?style=for-the-badge&logo=kwork)](https://kwork.ru/user/paranoik1)
 
-</div>
-
 ```python
 print("Ключевые словечки для вида")
 ```
 
-🛠️ `Python` | `FastAPI` | `Scrapy` | `aiohttp` | `Redis` | `Docker` | `Web Scraping` | `Async APIs`  
+🛠️ `Python` | `FastAPI` | `Scrapy` | `aiohttp` | `Redis` | `Docker` | `Web Scraping` | `Async APIs` | `Flask` | `return` | `def` | `function` | `yield` | `new Promise` | `Arch Linux` | `Browser` | `GitHub` | `Youtube` | `YouTube Shorts` | `jutsu.land` | `AmneziaVPN` | `Dark Reader` | `Okular` | `И прочий бред`
 
+</div>
 
 ## 🤔 Почему "paranoik1"?
 
