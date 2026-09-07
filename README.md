@@ -27,9 +27,3 @@ print("Ключевые словечки для вида")
 📬 **Связь**:  
 Ищу возможности для роста в backend-разработке, в автоматизации и в embeded-разработке.  
 Готов обсудить стажировки, фриланс или open-source коллаборации.
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paranoik1&theme=radical&show_icons=true)](https://github.com/paranoik1)
-
-</div>
