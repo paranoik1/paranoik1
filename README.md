@@ -13,17 +13,3 @@ print("Ключевые словечки для вида")
 🛠️ `Python` | `FastAPI` | `Scrapy` | `aiohttp` | `Redis` | `Docker` | `Web Scraping` | `Async APIs` | `Flask` | `return` | `def` | `function` | `yield` | `new Promise` | `Arch Linux` | `Browser` | `GitHub` | `Youtube` | `YouTube Shorts` | `jutsu.land` | `AmneziaVPN` | `Dark Reader` | `Okular` | `И прочий бред`
 
 </div>
-
-## 🤔 Почему "paranoik1"?
-
-Потому что `"paranoik"` уже занят, а `"paranoik2"` слишком пессиместично.
-
-> «Если ваш код работает с первой попытки, вы, вероятно, забыли обработать все пограничные случаи… или у вас галлюцинации». 🦄
-
-> **Дисклеймер**: Ни один разработчик не пострадал при создании этих репозиториев.
-
----
-
-📬 **Связь**:  
-Ищу возможности для роста в backend-разработке, в автоматизации и в embeded-разработке.  
-Готов обсудить стажировки, фриланс или open-source коллаборации.
